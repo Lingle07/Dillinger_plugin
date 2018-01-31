@@ -1,0 +1,6 @@
+    {
+      "client_id": "9fd6afa1e392e1b9ed83",
+      "client_secret": "4c24e3a9e55d28a32c59d616438a8cf03fbaedd1",
+      "redirect_uri": "https://github.com/Lingle07/Dillinger_plugin", // eg, http://dillinger.io
+      "callback_url": "https://github.com/Lingle07/Dillinger_plugin" // eg, http://dillinger.io/oauth/github
+    }
